@@ -1,0 +1,34 @@
+_repo: Glimpses-of-King-William-IV.-and-Queen-AdelaideClitherow-Family_35086
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Clitherow, Mary
+    gutenberg_agent_id: '37448'
+    url: http://www.gutenberg.org/2009/agents/37448
+  editor:
+    agent_name: White, G. Cecil (George Cecil)
+    alias: White, George Cecil
+    birthdate: 1848
+    gutenberg_agent_id: '37449'
+    url: http://www.gutenberg.org/2009/agents/37449
+description: ''
+gutenberg_issued: '2011-01-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35086'
+  lccn: 02029418
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'William IV, King of Great Britain, 1765-1837'
+- !lcsh 'Adelaide, Queen, consort of William IV, King of Great Britain, 1792-1849'
+- !lcc 'DA'
+title: "Glimpses of King William IV. and Queen Adelaide\r\nIn Letters of the Late\
+  \ Miss Clitherow, of Boston House, Middlesex. With a Brief Account of Boston House\
+  \ and the Clitherow Family"
+url: http://www.gutenberg.org/ebooks/35086
